@@ -1,0 +1,13 @@
+{
+    "name": "vaul_client",
+    "version": "0.0.1",
+    "description": "A lightweight @discord client mod focused on simplicity and performance",
+    "scripts": {
+      "inject": "sudo node injector/patcher.js"
+    },
+    "repository": "https://github.com/vaul_client/vaul_client.git",
+    "author": "vaul",
+    "bugs": {
+      "url": "https://github.com/vaul_client/issues"
+    }
+}
