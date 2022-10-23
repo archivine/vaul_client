@@ -4,7 +4,7 @@
 
 The only thing it really does is just applying the specified css file by modifying discord's core asar.  <br>
 
-# The backstory behind this literal abnormality <br>
+# The backstory behind this abomination <br>
 I got genuinely mad over the recent patches and since neither BD or Powercord weren't really working, I decided to take the matter into my own hands, which as you can see I utterly failed.
 
 # Compatibility  <br>
