@@ -16,12 +16,12 @@ I mean you can always try porting it to windows, GL.
 * `cd ~/`
 * `git clone https://github.com/archivine/vaul_client`
 * `cd vaul_client`
-* `sudo node main.js`  
-#### !! DO NOT MOVE THE FOLDER OUTSIDE OF HOME DIRECTORY
+* `sudo npm run inject`  
 
 # Theming  <br>
+* Open up `~/.config/vaul_client`
 * Place your desired css file into the themes folder
-* Edit config.json
+* Go back and edit config.json
 * Change `current_theme` value to the name of your file (just the name, ignore the file extension)
 * Restart your discord client.
 * ** You can overwrite your theme without leaving the client by using the `overwriteTheme()` function
